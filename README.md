@@ -1,7 +1,5 @@
 <!DOCTYPE html>
 <html lang="en">
-
-
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -21,11 +19,10 @@
             color: white;
         }
 
-
         #logo {
             width: 200px;
             margin-bottom: 10px;
-        }
+       }
 
 
         #avatar {
@@ -128,13 +125,13 @@
             <!-- Left Column -->
             <div class="left-column">
                 <!-- Content for left column goes here --> <img id="logo"                     src="https://lh3.googleusercontent.com/pw/ADCreHdaOMYiUdjIlNAkd_b5__H927yPc0fySkMRdRf1qaRgU26I1UW89DW_9LsfRbU7yvUEOfkbvk1sYWqNZIgNFAf40q51O1fZeMm91sAFycV-reJJcLw=w2400" />
-                <img id="avatar" src="https://s1.zerochan.net/Bongo.Cat.600.3353167.jpg" alt="" />
+                <img id="avatar" src="https://scontent.fsgn5-8.fna.fbcdn.net/v/t39.30808-6/272888199_664491447921299_8327319286795552021_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeH588MfUlZxnBVPkYHKV3RA7liVzjis37TuWJXOOKzftCN4SudP_89xCGjMT1mlxrlh3G3kL0Ii5_k4FeJRkdMv&_nc_ohc=xFZ6RUcrJO0AX-46LtB&_nc_ht=scontent.fsgn5-8.fna&oh=00_AfDL4gEWQdJA6oplnzJ1jb7UW58TutR7JVKbEoEdVFTo-w&oe=65593386" alt="" />
                 <div class="highlights">
-                    <h1><strong>Phan Đức Thành Phát</strong></h1>
-                    <p><strong>KHMT2023.3</strong></p>
+                    <h1><strong>Huỳnh Ngọc Bảo</strong></h1>
+                    <p><strong>KHMT2023.1</strong></p>
                     <p><strong>UIT VNUHCM </strong></p>
                     <p><strong>
-                        From Huế Mộng Huế Mơ city</strong></p>
+                        From Hồ Chí Minh citi</strong></p>
                 </div>
             </div> <!-- Right Column -->
             <div class="right-column">
@@ -147,17 +144,17 @@
                     <ul>
                         <!--Mấy Bạn thêm bao nhiêu.. thì nhiêu cái li ở dưới này nha-->
                         <li>Đá Bóng</li>
-                        <li>Đánh Cầu Lông</li>
-                        <li>Nghe Nhạc</li>
+                        <li>Swimming</li>
+                        <li>Go outside</li>
                     </ul>
                 </div>
                 <div class="section">
                     <h2>My Future Goals</h2>
                     <ul>
                         <!--Mấy Bạn thêm bao nhiêu.. thì nhiêu cái li ở dưới này nha-->
-                        <li>Nhiều hơn 2 anh iu</li>
-                        <li>Du lịch Châu  u</li>
-                        <li>Ra Trường Đúng Hạn</li>
+                        <li>giàu</li>
+                        <li>sau này lấy vợ giàu</li>
+                       
                     </ul>
                 </div>
                 <!--ngang này là giống mấy anh chị rùi á còn ở dưới là thêm nha-->
@@ -177,7 +174,7 @@
 
 
                    <div>
-                    <label>Bạn bị gay à</label>
+                    <label>Bạn bi gay àk</label>
                     <input type="radio" placeholder=/>
                     <select>
                         <option>có thể coi là zạ</option>
@@ -188,9 +185,9 @@
                 </form>
                 <div class="contacts">
                     <h2>Contact me</h2>
-                    <a href="https://www.facebook.com/profile.php?id=100043974591502"><img src="https://banghieuviet.org/wp-content/uploads/2023/08/logo-facebook-vector-02.jpg" alt="">FaceBook</a>
-                    <a href="https://github.com/kelvin2250"><img src="https://1000logos.net/wp-content/uploads/2021/05/GitHub-logo.png" alt="">Github</a>
-                    <a href="https://www.instagram.com/thanhhppphat/?hl=en"><img src="https://rubee.com.vn/admin/webroot/upload/image//images/bai-viet/logo-instagram-4.jpg" alt="">Instagram</a>  
+                    <a href="https://www.facebook.com/profile.php?id=100030813486183"><img src="https://banghieuviet.org/wp-content/uploads/2023/08/logo-facebook-vector-02.jpg" alt="">FaceBook</a>
+                    <a href="https://github.com/huynhbao070605"><img src="https://1000logos.net/wp-content/uploads/2021/05/GitHub-logo.png" alt="">Github</a>
+                    
             </div>
         </div>
     </main>
@@ -198,3 +195,4 @@
 
 
 </html>
+
