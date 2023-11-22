@@ -174,10 +174,10 @@
 
 
                    <div>
-                    <label>Bạn bi gay àk</label>
+                    <label>Bạn có muốn tâm sự với mình khum?!!</label>
                     <input type="radio" placeholder=/>
                     <select>
-                        <option>có thể coi là zạ</option>
+                        <option>có </option>
                         <option>nửa nửa </option>
                         <option>nhiều chút ít</option>
                     </select>
